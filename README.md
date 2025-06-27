@@ -1,4 +1,4 @@
-# Codec-Technologies-Projrct-2
+# Codec-Technologies-Project-2
 
 > Automated Resume Parser
 
